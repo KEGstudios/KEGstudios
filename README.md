@@ -28,3 +28,4 @@ PowerShell, Git, Visual Studio, VS Code
 
 📧 Open to freelance projects — Flutter mobile apps, C# desktop tools, backend APIs
 🌍 Available for remote work worldwide
+ 
