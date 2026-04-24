@@ -7,10 +7,25 @@ AstraX — A feature-rich cross-platform IPTV media player built with Flutter (A
 
 FSM — A Windows desktop utility (WPF/C#) for file system scanning and Active Directory user export with real-time progress and CSV output.
 
+
 🛠️ Tech Stack
-Mobile & Desktop: Flutter / Dart · WPF / XAML (C#)
-Backend: ASP.NET Core (C#) · REST APIs · LDAP / Active Directory
-Tools & Integrations: Gemini AI · TMDB API · Sentry · PowerShell · Git · Visual Studio · VS Code
+Mobile & Desktop
+
+Flutter / Dart
+WPF / XAML (C#)
+
+Backend
+
+ASP.NET Core (C#)
+REST APIs, LDAP / Active Directory
+
+Tools & Integrations
+
+Gemini AI, TMDB API, Sentry
+PowerShell, Git, Visual Studio, VS Code
+
 
 📫 Get In Touch
-Open to freelance projects — Flutter mobile apps, C# desktop tools, backend APIs 🌍 Available for remote work worldwide
+
+📧 Open to freelance projects — Flutter mobile apps, C# desktop tools, backend APIs
+🌍 Available for remote work worldwide
