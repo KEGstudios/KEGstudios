@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Kemal 👋
+I'm a software developer based in Istanbul, Turkey — building cross-platform mobile apps and desktop tools. I enjoy working across the full stack, from Flutter UIs to C# backends.
 
-<!--
-**KEGstudios/KEGstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On
 
-Here are some ideas to get you started:
+AstraX — A feature-rich cross-platform IPTV media player built with Flutter (Android, iOS, Android TV, Desktop) with a C# ASP.NET Core backend, AI assistant (Gemini), TMDB integration, parental controls, and 7-language support.
+Pulsa — A Windows desktop utility (WPF/C#) for file system scanning and Active Directory user export with real-time progress and CSV output.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Tech Stack
+Mobile & Desktop
+
+Flutter / Dart
+WPF / XAML (C#)
+
+Backend
+
+ASP.NET Core (C#)
+REST APIs, LDAP / Active Directory
+
+Tools & Integrations
+
+Gemini AI, TMDB API, Sentry
+PowerShell, Git, Visual Studio, VS Code
+
+
+📫 Get In Touch
+
+📧 Open to freelance projects — Flutter mobile apps, C# desktop tools, backend APIs
+🌍 Available for remote work worldwide
