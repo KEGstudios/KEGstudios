@@ -4,6 +4,7 @@ I'm a software developer based in Istanbul, Turkey — building cross-platform m
 🚀 What I'm Working On
 
 AstraX — A feature-rich cross-platform IPTV media player built with Flutter (Android, iOS, Android TV, Desktop) with a C# ASP.NET Core backend, AI assistant (Gemini), TMDB integration, parental controls, and 7-language support.
+
 Pulsa — A Windows desktop utility (WPF/C#) for file system scanning and Active Directory user export with real-time progress and CSV output.
 
 
